@@ -1,4 +1,20 @@
 #banner {
     display: flex;
     justify-content: center;
+    width: auto;
+}
+body {
+    background-image: url("//c1.staticflickr.com/9/8285/7612101570_7ddb0d8d89_k.jpg");
+    background-size: cover;
+}
+h1 {
+    font-family: "lobster";
+    text-align: center;
+}
+h2{
+    font-family: "lobster";
+    margin-left: 25px;
+}
+li {
+    font-weight: bold;
 }
