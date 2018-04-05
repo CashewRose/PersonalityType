@@ -1,0 +1,1 @@
+1. Image of your avatar 2. Title of your "personality", 3. 5 words/phrases from the description that you feel accurately represent you. Think about you can make your site into components. Feel free to style, if you want 
